@@ -15,7 +15,6 @@
 /* regole di colonna */
 [class*="col-"] {
   float: left;
-  border: 1px solid black;
 }
 /* div di clearfix forzato */
 .clear-xs, .clear-md, .clear-lg {
